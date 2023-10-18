@@ -32,7 +32,7 @@
 * [Module materials](../../03-classification)
 * [Homework](03-classification/homework.md)
 * Homework solution:
-  * TODO
+  * [Notebook](03-classification/homework_3.ipynb)
 
 
 [**4. Evaluation Metrics for Classification**](04-evaluation/)
@@ -40,7 +40,7 @@
 * [Module materials](../../04-evaluation)
 * [Homework](04-evaluation/homework.md)
 * Homework solution:
-  * TODO
+  * [Notebook](04-evaluation/homework.ipynb)
 
 
 [**5. Deploying Machine Learning Models**](05-deployment/)
