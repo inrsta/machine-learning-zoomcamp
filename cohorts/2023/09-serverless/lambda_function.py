@@ -17,8 +17,7 @@ def preprocess_image(image, target_size=(150, 150)):
 
 def preprocess_input(x):
     """Preprocess input (example: normalization)."""
-    x /= 127.5
-    x -= 1.
+    x /= 255.
     return x
 
 def load_model(model_path='bees-wasps-v2.tflite'):
